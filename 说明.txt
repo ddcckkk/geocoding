@@ -1,0 +1,4 @@
+比gpsspg定位的经纬度更准确些。
+http://www.earthol.com/   定位的精度更高点
+
+BaiduMapAPI时准时不准
